@@ -30,26 +30,26 @@ In the second task, you will:
 
 ## Task 1:
 
-* Image Rotation:
+### Image Rotation:
 
 The input image is rotated by a random angle using OpenCV’s warpAffine. Padding is added to avoid cropping.
 
-* Grayscale Conversion:
+### Grayscale Conversion:
 
 Both the original and rotated images are converted to grayscale for feature extraction.
 
-* Feature Extraction and Matching:
+### Feature Extraction and Matching:
 
 SIFT (Scale-Invariant Feature Transform) is used to detect and describe keypoints in both images.
 The detected keypoints are matched using a Brute-Force Matcher with a ratio test to filter good matches.
 
-* Homography Estimation and Image Warping:
+### Homography Estimation and Image Warping:
 
 A homography matrix is calculated using the matched keypoints.
 The rotated image is warped back to its original orientation using warpPerspective.
 
-* Visualization:
-* 
+### Visualization:
+
 Keypoints and matches are visualized, along with the final aligned image.
 
 ### Results of SIFT:
@@ -65,20 +65,20 @@ Keypoints and matches are visualized, along with the final aligned image.
 
 ## Task 2: 
 
-* Image Rotation and Preprocessing:
+### Image Rotation and Preprocessing:
 
 Similar to Task 1, the image is rotated and converted to grayscale.
 
-* Feature Extraction and Matching:
+### Feature Extraction and Matching:
 
 FREAK (Fast Retina Keypoint) descriptors are computed after detecting keypoints using either SIFT or FAST.
 Keypoints are matched using a Hamming-based Brute-Force Matcher.
 
-* Homography and Image Warping:
+### Homography and Image Warping:
 
 The same process is followed to estimate the homography and warp the rotated image back to its original position.
 
-* Comparison and Analysis:
+### Comparison and Analysis:
 
 The performance of SIFT and FREAK is compared in terms of:
 
