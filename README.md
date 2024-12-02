@@ -4,8 +4,8 @@ This project focuses on image alignment and feature descriptor performance evalu
 
 # Content
 - Table of Contents
-  * [Task 1: GLCM-Based Feature Extraction and Semantic Segmentation](#Task-1-Image-Alignment-Using-SIFT) 
-  * [Task 2: Gabor Filter-Based Feature Extraction and Semantic Segmentation](#Task-2-Descriptor-Comparison-Using-FREAK)  
+  * [Task 1: Image Alignment Using SIFT](#Task-1-Image-Alignment-Using-SIFT) 
+  * [Task 2: Descriptor Comparison Using FREAK](#Task-2-Descriptor-Comparison-Using-FREAK)  
   * [METHOD Task 1](#Task-1)
   * [METHOD Task 2](#Task-2)
  
