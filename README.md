@@ -60,7 +60,7 @@ Keypoints and matches are visualized, along with the final aligned image.
 <img style="width:800px" src="https://github.com/user-attachments/assets/e3f4a13c-f75d-4c0f-880e-943d2179dd25"><br>
 <img style="width:800px" src="https://github.com/user-attachments/assets/fe62b772-a0c6-4b37-8481-7a93205fab16">
 
-### For step-by-step results, check the [SIFT]https://github.com/peymanHashemi/Image-Alignment-With-SIFT-and-FREAK/blob/3275f2b70cc22a0a535b2ac5ba8f90ad379e15dd/SIFT.ipynb).
+### For step-by-step results, check the [SIFT](https://github.com/peymanHashemi/Image-Alignment-With-SIFT-and-FREAK/blob/3275f2b70cc22a0a535b2ac5ba8f90ad379e15dd/SIFT.ipynb).
 
 
 ## Task 2: 
