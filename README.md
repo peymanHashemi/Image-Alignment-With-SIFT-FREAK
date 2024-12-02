@@ -26,7 +26,7 @@ In the second task, you will:
 
 <img style="width:700px" src="https://github.com/user-attachments/assets/975420b0-280f-4e4a-b9b1-8d8807c34ba3"> <br>
 <img style="width:450px" src="https://github.com/user-attachments/assets/1df0c8d3-2c82-4be0-9517-0a624752b2e3">
-<img style="width:450px" src="https://github.com/user-attachments/assets/7b01ecca-f606-401e-a9d3-2d3cb789fcc6"><br>
+<img style="width:350px" src="https://github.com/user-attachments/assets/7b01ecca-f606-401e-a9d3-2d3cb789fcc6"><br>
 <img style="width:800px" src="https://github.com/user-attachments/assets/e3f4a13c-f75d-4c0f-880e-943d2179dd25"><br>
 <img style="width:800px" src="https://github.com/user-attachments/assets/fe62b772-a0c6-4b37-8481-7a93205fab16">
 
