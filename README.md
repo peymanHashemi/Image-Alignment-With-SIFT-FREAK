@@ -2,6 +2,13 @@
 
 This project focuses on image alignment and feature descriptor performance evaluation. The tasks involve using different descriptors to match and align a rotated image back to its original orientation. The primary objective is to analyze the robustness of these descriptors under image transformations such as rotation.
 
+# Content
+- Table of Contents
+  * [Task 1: GLCM-Based Feature Extraction and Semantic Segmentation](#Task-1-Image-Alignment-Using-SIFT) 
+  * [Task 2: Gabor Filter-Based Feature Extraction and Semantic Segmentation](#Task-2-Descriptor-Comparison-Using-FREAK)  
+  * [METHOD Task 1](#Task-1)
+  * [METHOD Task 2](#Task-2)
+ 
 ## Task 1: Image Alignment Using SIFT
 In the first task, you will:
 
@@ -21,8 +28,9 @@ In the second task, you will:
 
 # METHOD
 
+## Task 1:
 
-# Results:
+### Results of SIFT:
 
 <img style="width:700px" src="https://github.com/user-attachments/assets/975420b0-280f-4e4a-b9b1-8d8807c34ba3"> <br>
 <img style="width:450px" src="https://github.com/user-attachments/assets/1df0c8d3-2c82-4be0-9517-0a624752b2e3">
@@ -30,10 +38,17 @@ In the second task, you will:
 <img style="width:800px" src="https://github.com/user-attachments/assets/e3f4a13c-f75d-4c0f-880e-943d2179dd25"><br>
 <img style="width:800px" src="https://github.com/user-attachments/assets/fe62b772-a0c6-4b37-8481-7a93205fab16">
 
-# Results:
+### For step-by-step results, check the [SIFT](https://github.com/peymanHashemi/Image-Alignment-With-SIFT-FREAK/blob/46304ec6632cb577b6b5090a98133893e72854cb/SIFT.ipynb).
+
+
+## Task 2: 
+
+### Results of FREAK:
 
 <img style="width:700px" src="https://github.com/user-attachments/assets/70776e44-a3f3-44da-8aae-498c75165c6f"><br>
 <img style="width:450px" src="https://github.com/user-attachments/assets/051323a9-06c0-4064-90e6-d105e931930c">
 <img style="width:450px" src="https://github.com/user-attachments/assets/46e9c467-992b-45c1-bcc4-fb1fae81e3e6"><br>
 <img style="width:800px" src="https://github.com/user-attachments/assets/4485ed1b-a13d-4670-92b3-56630a55d8df"><br>
 <img style="width:800px" src="https://github.com/user-attachments/assets/95d4926b-7a64-4cce-8383-b5be87c9f038">
+
+### For step-by-step results, check the [FREAK](https://github.com/peymanHashemi/Image-Alignment-With-SIFT-FREAK/blob/46304ec6632cb577b6b5090a98133893e72854cb/FREAK.ipynb).
